@@ -1,0 +1,8 @@
+Instrucciones de vista pública para el prototipo BugTracker:
+
+1. Abra esta carpeta en VS Code.
+2. Inicie Live Server (clic derecho en bugtracker.html y seleccione "Open with Live Server").
+3. Comparta la URL generada con su profesor, por ejemplo:
+   http://127.0.0.1:5500/bugtracker.html
+
+Si no cuenta con Live Server, abra `bugtracker.html` directamente en un navegador moderno.

@@ -1,0 +1,10 @@
+/* Estilos base para BugTracker (sobrescribe mínimos) */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+*{box-sizing:border-box}
+body{margin:0;font-family:'Inter',sans-serif;background:#F5F5F5;color:#222}
+#root{min-height:100vh}
+/* Pequeños ajustes para que Material UI y componentes se vean bien */
+.small{font-size:13px}
+.center{text-align:center}
+.hidden{display:none}
+/* Fin de style.css */
